@@ -6,20 +6,20 @@ The project will be divided into self-contained reports on different designs of 
 
 We have come up with 14 ideas for malicious nodes currently. Each node will have its own Github issue and directory with a README, which will also link to a Github issue.
 
-* [Non-market prioritization](../attacks/non-market-prioritization)
-* [Byzantine attack](../attacks/byzantine-attack)
-* [Uneven node prioritization](../attacks/uneven-node-prioritization)
-* [Invalid secret shares](../attacks/invalid-secret-shares)
-* [External handshake](../attacks/external-handshake)
-* [Port flooding](../attacks/port-flooding)
-* [Unexpected port forwarding](../attacks/unexpected-port-forwarding)
-* [Buffer overflows](../attacks/buffer-overflows)
-* [Dead-locks / live-locks](../attacks/dead-live-locks)
-* [Network fragmentation](../attacks/network-fragmentation)
-* [Remote access exploits](../attacks/remote-access-exploits)
-* [Delta fragment spamming](../attacks/delta-fragment-spamming)
-* [Packet dropping](../attacks/packet-dropping)
-* [0-cost nodes](../attacks/zero-cost-nodes)
+- [ ] [Non-market prioritization](../attacks/non-market-prioritization)
+- [ ] [Byzantine attack](../attacks/byzantine-attack)
+- [ ] [Uneven node prioritization](../attacks/uneven-node-prioritization)
+- [ ] [Invalid secret shares](../attacks/invalid-secret-shares)
+- [ ] [External handshake](../attacks/external-handshake)
+- [ ] [Port flooding](../attacks/port-flooding)
+- [ ] [Unexpected port forwarding](../attacks/unexpected-port-forwarding)
+- [ ] [Buffer overflows](../attacks/buffer-overflows)
+- [ ] [Dead-locks / live-locks](../attacks/dead-live-locks)
+- [ ] [Network fragmentation](../attacks/network-fragmentation)
+- [ ] [Remote access exploits](../attacks/remote-access-exploits)
+- [ ] [Delta fragment spamming](../attacks/delta-fragment-spamming)
+- [ ] [Packet dropping](../attacks/packet-dropping)
+- [ ] [0-cost nodes](../attacks/zero-cost-nodes)
 
 
 ## Categories
