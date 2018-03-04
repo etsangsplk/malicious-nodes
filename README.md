@@ -46,5 +46,3 @@ Main article: [Attacks](./documentation/attacks.md)
 ## Access
 
 This repository will contain or point to any resources used throughout the duration of the project.
-
-The task management will be done through [this Trello board]().

@@ -2,7 +2,7 @@
 
 In this meeting, we discussed details about our project with John and categorised the different node into smaller groups.
 
-We decided that creating categories help us identify possible connections and draw connections between diffent attacks. This could help us to improve and combine the different attack vectors, and come up with better attack ideas.
+We developed categories of attacks on the whiteboard to help us draw connections between the diffent attacks. This will help us to improve and combine the different attacks, and come up with better attack ideas.
 
 ![Whiteboard: Categories](../images/feb28-1.jpg)
 
