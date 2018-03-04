@@ -1,7 +1,7 @@
 # Malicious Nodes
-![Republic Protocol Logo](https://republicprotocol.github.io/files/logo/192x192.png)
+![Republic Protocol Logo](https://republicprotocol.github.io/files/logo/128x128.png)
 
-> **This is an academic project that aims to improve the security of Republic Protocol's decentralised network by identifying potential attacks and vulnerabilities.**
+**This is an academic project that aims to improve the security of Republic Protocol's decentralised network by identifying potential attacks and vulnerabilities.**
 
 ## Table of Contents
 
@@ -21,23 +21,19 @@ It's core underlying component is a network of *dark nodes* that cooperate to fi
 The network is trustless and decentralised, allowing anyone to run the node software to join the network. While this allows for the network to not be controlled by any single entity, it creates the risk of participants diverging from the expected behaviour with the aim of making a profit, causing other participants to suffer a loss, or simply because they can.
 
 This project involves to design and implement malicious nodes and introducing them into a test network in order to analyse and better understand their impact on the network and reason about how any potential vulnerabilities can be solved.
-
-This repository will contain or point to any resources used throughout the duration of the project.
  
 ## Team
-
-Team roles are defined as follows:
 
 | Team Member | Role        | 
 | ------------| ------------| 
 | Susruth     | Research    |
 | Noah        | Development | 
-| Jaz         | Dev         | 
+| Jaz         | Development | 
 
 
 ## Stakeholders
 
-Main article: [Stakeholders]()
+Main article: [Stakeholders](./documentation/stakeholders.md)
 
 ## Planning
 
@@ -45,4 +41,6 @@ Main article: [Planning](./documentation/planning.md)
 
 ## Access
 
-All work and resources will be available through this repository, which is open to everyone.
+This repository will contain or point to any resources used throughout the duration of the project.
+
+The task management will be done through [this Trello board]().
