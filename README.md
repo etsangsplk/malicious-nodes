@@ -35,9 +35,13 @@ This project involves to design and implement malicious nodes and introducing th
 
 Main article: [Stakeholders](./documentation/stakeholders.md)
 
-## Planning
+## Project Planning
 
 Main article: [Planning](./documentation/planning.md)
+
+## Technical Planning
+
+Main article: [Attacks](./documentation/attacks.md)
 
 ## Access
 
