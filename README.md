@@ -1,7 +1,7 @@
 # Malicious Nodes
 ![Republic Protocol Logo](https://republicprotocol.github.io/files/logo/128x128.png)
 
-**This is an academic project that aims to improve the security of Republic Protocol's decentralised network by identifying potential attacks and vulnerabilities.**
+**This is an academic project that aims to improve the security of Republic Protocol's decentralised network by identifying potential attacks and vulnerabilities and mitigating against them.**
 
 ## Table of Contents
 

@@ -24,20 +24,49 @@ We have come up with 14 ideas for malicious nodes currently. Each node will have
 * Remote access exploits
 * Delta fragment spamming
 * Packet dropping
-* ? nodes
+* 0-cost nodes
 
 ### Categories
 
 > References: [Meeting on February 28th](./meeting-notes/feb28.md)
 
-To break this list down into smaller groups of nodes, we came up with five different categories and assigned nodes to them.
+Categorizing the different attacks into smaller groups makes it easier identify possible connections between them and draw connections that help us to improve and combine the different attack vectors.
 
-**Game theory**: Non-market prioritization, byzantine attack and uneven node prioritization
+#### **Game theory**
 
-**Product specific**: Invalid secret shares
+Game theory attacks don't rely on network or implementation vulnerabilities. Instead, they modify the behaviour of their nodes or attempt to influence other nodes in order to achieve their desired outcome.
 
-**MITM**: External handshake
+> * *Non-market prioritization*
+> * *Byzantine attack*
+> * *Uneven node prioritization*
 
-**Network level**: Port flooding, unexpected port forwarding, buffer overflows, dead-locks and live-locks, network fragmentation, remote access explotis
+#### Man-In-The-Middle
 
-**Denial of service**: Delta fragment spamming, package dropping, ? 
+Man in the middle attacks (MITM) involve a node placing itself in between the communications of two other nodes in order to gain access to information or to affect the operation of the other nodes.
+
+> * *External handshake*
+
+#### Implementation level
+
+Implementation level attacks are technical exploits that attempt to identify and take advantage of security flaws in the node software.
+
+> * *Buffer overflows*
+> * *Dead-locks and live-locks*
+> * *Remote access explotis*
+
+#### Network level
+
+Network level attacks. A subcategory of the network attacks is Denial of Service, where a malicious node attempts to prevent other nodes from participating in the network.
+
+> * *Network fragmentation*
+> * *Unexpected port forwarding*
+> * *Port flooding*
+> * *Delta fragment spamming*
+> * *Package dropping*
+> * *0-cost nodes*
+
+#### Product specific
+
+This category contains attacks that don't fit into the other categories, due to being overly specific to dark pool's protocol.
+
+> * *Invalid secret shares*
