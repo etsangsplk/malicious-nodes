@@ -1,5 +1,5 @@
 # Buffer Overflows
 
-> Catefory: Implementation attack
+> Category: Implementation level
 
-[Github Issue]()
+[Github Issue](https://github.com/republicprotocol/malicious-nodes/issues/1)
