@@ -18,7 +18,7 @@ Republic Protocol is a decentralised dark pool for trustless cross-chain atomic 
 
 It's core underlying component is a network of *dark nodes* that cooperate to find matches between two orders, without ever knowing the details about the orders.
 
-The network is trustless and decentralised, allowing anyone to run the node software to join the network. While this allows for the network to not be controlled by any single entity, it creates the risk of participants diverging from the expected behaviour with the aim of making a profit, causing other participants to suffer a loss, or simply because they can.
+The network is trustless and decentralised, allowing anyone to join the network and run the node software. While this allows for the network to not be controlled by any single entity, it also creates the risk of participants diverging from the expected behaviour with the aim of making a profit, causing other participants to suffer a loss, or simply because they can.
 
 This project involves to design and implement malicious nodes and introducing them into a test network in order to analyse and better understand their impact on the network and reason about how any potential vulnerabilities can be solved.
  
