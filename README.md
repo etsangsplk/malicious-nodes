@@ -1,6 +1,8 @@
 # Malicious Nodes
 ![Republic Protocol Logo](https://republicprotocol.github.io/files/logo/192x192.png)
 
+> **This is an academic project that aims to improve the security of Republic Protocol's decentralised network by identifying potential attacks and vulnerabilities.**
+
 ## Table of Contents
 
   * [Introduction](#introduction)
@@ -12,32 +14,34 @@
 
 ## Introduction
 
-This project involves creating malicious nodes to attempt to penetrate a complex peer-to-peer order system, and reason about how any potential vulnerabilities can be solved. These nodes will introduce bad actors into the network and will aim to affect the functioning of the system negatively, either with the intent of gaining more than they spend or causing other nodes to suffer a loss.
+Republic Protocol is a decentralised dark pool for trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs.
 
-This repository will contain any resources used throughout the duration of this project.
+It's core underlying component is a network of *dark nodes* that cooperate to find matches between two orders, without ever knowing the details about the orders.
+
+The network is trustless and decentralised, allowing anyone to run the node software to join the network. While this allows for the network to not be controlled by any single entity, it creates the risk of participants diverging from the expected behaviour with the aim of making a profit, causing other participants to suffer a loss, or simply because they can.
+
+This project involves to design and implement malicious nodes and introducing them into a test network in order to analyse and better understand their impact on the network and reason about how any potential vulnerabilities can be solved.
+
+This repository will contain or point to any resources used throughout the duration of the project.
  
 ## Team
 
 Team roles are defined as follows:
 
-| Team Member | Role     | 
-| ------------| ---------| 
-| Susruth     | Research |
-| Noah        | Dev      | 
-| Jaz         | Dev      | 
+| Team Member | Role        | 
+| ------------| ------------| 
+| Susruth     | Research    |
+| Noah        | Development | 
+| Jaz         | Dev         | 
 
 
 ## Stakeholders
 
-* Republic Protocol
-* Us
-* Node operators
-* Traders
-
+Main article: [Stakeholders]()
 
 ## Planning
 
-Please see [main planning document](./documentation/planning.md). Planning summary: ...
+Main article: [Planning](./documentation/planning.md)
 
 ## Access
 
