@@ -9,7 +9,7 @@ We will try to reference these notes through out the documentation to explain ho
 
 ## Node ideas
 
-We have come up with X ideas for malicious nodes:
+We have come up with 14 ideas for malicious nodes currently. Each node will have its own Github issue and directory with a README.
 
 * Non-market prioritization
 * Byzantine attack
