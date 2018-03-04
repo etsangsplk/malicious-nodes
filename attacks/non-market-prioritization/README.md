@@ -2,4 +2,4 @@
 
 > Category: Game theory
 
-[Github Issue]()
+[Github Issue](https://github.com/republicprotocol/malicious-nodes/issues/2)
