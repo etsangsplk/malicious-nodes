@@ -37,7 +37,7 @@ Team roles are defined as follows:
 
 ## Planning
 
-...
+Please see [main planning document](./documentation/planning.md). Planning summary: ...
 
 ## Access
 
