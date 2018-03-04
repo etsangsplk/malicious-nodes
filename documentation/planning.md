@@ -28,6 +28,8 @@ We have come up with 14 ideas for malicious nodes currently. Each node will have
 
 ### Categories
 
+> References: [Meeting on February 28th](./meeting-notes/feb28.md)
+
 To break this list down into smaller groups of nodes, we came up with five different categories and assigned nodes to them.
 
 **Game theory**: Non-market prioritization, byzantine attack and uneven node prioritization

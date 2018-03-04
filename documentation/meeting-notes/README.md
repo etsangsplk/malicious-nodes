@@ -1,5 +1,5 @@
 # Meeting Notes
 
-### Week 2
+### Week of 26th Feb to 2nd March
 
-* [Tutorial](./w2-tutorial.md)
+* [February 28](./feb28.md)
