@@ -45,4 +45,4 @@ Main article: [Attacks](./documentation/attacks.md)
 
 ## Access
 
-This repository will contain or point to any resources used throughout the duration of the project. All resources in this repository are published under the [MIT license](./LICENSE), and all copywright attributed to Republic Protocol.
+This repository will contain or point to any resources used throughout the duration of the project. All resources in this repository are published under the [MIT license](./LICENSE), and all copyright attributed to Republic Protocol.
