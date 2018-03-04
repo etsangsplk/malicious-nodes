@@ -2,6 +2,13 @@
 
 The project will be divided into self-contained reports on different designs of malicious nodes.
 
+For every attack, we will:
+
+1. Research the attack vector
+2. Implement the malicious node
+3. If the attack is successful, implement safeguards against it
+4. Write a report on the attack
+
 ## Node ideas
 
 We have come up with 14 ideas for malicious nodes currently. Each node will have its own Github issue and directory with a README, which will also link to a Github issue.
