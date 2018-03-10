@@ -1,4 +1,4 @@
-# Byzantine Attack
+# BGP Attack
 
 > Category: Game theory
 
