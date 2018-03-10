@@ -14,8 +14,8 @@ For every attack, we will:
 We have come up with 14 ideas for malicious nodes currently. Each node will have its own Github issue and directory with a README, which will also link to a Github issue. 
 
 - [ ] [BGP attack](../attacks/bgp-attack) (20th March 2018)
-  - [ ] [Lazy Node Attack] (../attacks/byzantine-attack/lazy-nodes) 
-  - [ ] [Selfish Node Attack] (../attacks/byzantine-attack/selfish-nodes) 
+  - [ ] [Lazy Node Attack](../attacks/byzantine-attack/lazy-nodes) 
+  - [ ] [Selfish Node Attack](../attacks/byzantine-attack/selfish-nodes) 
 - [ ] [Non-market prioritization](../attacks/non-market-prioritization) (27th March 2018)
 - [ ] [Invalid secret shares](../attacks/invalid-secret-shares) 
 - [ ] [Dead-locks / live-locks](../attacks/dead-live-locks)
