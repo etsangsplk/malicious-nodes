@@ -41,9 +41,9 @@ Categorizing the different attacks into smaller groups makes it easier identify 
 
 Game theory attacks don't rely on network or implementation vulnerabilities. Instead, they modify the behaviour of their nodes or attempt to influence other nodes in order to achieve their desired outcome.
 
+> * *Lazy nodes*
+> * *Selfish nodes*
 > * *Non-market prioritization*
-> * *Byzantine attack*
-> * *Uneven node prioritization*
 
 #### Man-In-The-Middle
 
@@ -63,7 +63,6 @@ Implementation level attacks are technical exploits that attempt to identify and
 
 Network level attacks. A subcategory of the network attacks is Denial of Service, where a malicious node attempts to prevent other nodes from participating in the network.
 
-> * *Network fragmentation*
 > * *Unexpected port forwarding*
 > * *Port flooding*
 > * *Delta fragment spamming*
