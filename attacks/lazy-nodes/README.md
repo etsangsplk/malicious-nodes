@@ -1,6 +1,6 @@
-# BGP Attack
+# Lazy nodes
 
-> Category: Game theory
+> Category: Networking level
 
 [Github Issue (TODO)]()
 
